@@ -114,3 +114,12 @@ chmod +x ~/.config/autostart/Growix_Monitor.desktop
     *   The `sciencebus` user must be in the `dialout` group: `sudo usermod -a -G dialout $USER`.
 *   **Values are all 0 or don't make sense**
     *   Your specific sensor might use a different register map. Run `~/sensor_env/bin/python scanner.py` while holding the sensor to find which registers jump.
+
+---
+
+## 📬 Contact & Author
+
+**B Jithendra**
+* **Email:** humanoidr6@gmail.com
+* **Mobile:** +91 6300721894
+* **GitHub:** [@humanoidr6](https://github.com/humanoidr6)
