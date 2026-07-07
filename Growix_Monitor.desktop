@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Growix Monitor
+Comment=Live Sensor Telemetry
+Exec=python3 /home/sciencebus/basic_desktop_app.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
